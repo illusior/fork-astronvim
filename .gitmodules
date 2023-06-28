@@ -1,0 +1,4 @@
+[submodule "lua/user"]
+	path = lua/user
+	url = https://github.com/illusior/config-astronvim.git
+	branch = my_config
